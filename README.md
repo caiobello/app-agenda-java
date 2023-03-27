@@ -1,4 +1,4 @@
-# AgendaJava
+# agendaJava
 Agenda de anotações Java
 
 
